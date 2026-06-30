@@ -1,8 +1,3 @@
-# Addresslink-unified-digital-address-updater-and-validator-for-governance-portals
-AddressLink, provides a one-time digital address update and verification platform that automatically synchronizes the updated address across all authorized services such as Aadhaar, banks, and government portals
-
-
-
 #include <iostream>
 #include <string>
 #include <cstdlib>
@@ -67,3 +62,6 @@ int main() {
  cout << "Your secure digital token (" << token << ") is now active.\n";
  return 0;
 }
+
+
+
